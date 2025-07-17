@@ -31,7 +31,7 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[BMH08101 Arduino Library Description](https://www.bestmodulescorp.com/bmh08101.html#tab-product2)** - Arduino Library Description.
+* **[BMH08101 Arduino Library Description](https://www.bestmodulescorp.com/bmh08101.html)** - Arduino Library Description.
 
 Version History  
 -------------------
