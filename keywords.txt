@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map BMH08101
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+BMH08101	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+beginMeasure	KEYWORD2
+endMeasure	KEYWORD2
+sleep	KEYWORD2
+updateScalingFactor	KEYWORD2
+requestInfoPackage	KEYWORD2
+isInfoAvailable	KEYWORD2
+readInfoPackage	KEYWORD2
+setRequestSendMode	KEYWORD2
+setContinuousTransMode	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+START_MEASURE	LITERAL1
+STOP_MEASURE	LITERAL1
+ENTER_HALT	LITERAL1
+CHECK_OK	LITERAL1
+CHECK_ERROR	LITERAL1
+TIMEOUT_ERROR	LITERAL1
+
